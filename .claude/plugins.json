@@ -1,8 +1,0 @@
-{
-  "plugins": [
-    {
-      "id": "superpowers",
-      "source": "claude-plugins-official"
-    }
-  ]
-}
