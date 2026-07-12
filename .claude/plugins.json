@@ -5,6 +5,12 @@
       "source": "github",
       "owner": "obra",
       "repo": "superpowers"
+    },
+    {
+      "id": "caveman",
+      "source": "github",
+      "owner": "juliusbrussee",
+      "repo": "caveman"
     }
   ]
 }
