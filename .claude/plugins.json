@@ -2,7 +2,9 @@
   "plugins": [
     {
       "id": "superpowers",
-      "source": "claude-plugins-official"
+      "source": "github",
+      "owner": "obra",
+      "repo": "superpowers"
     }
   ]
 }
